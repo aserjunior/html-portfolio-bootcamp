@@ -1,2 +1,2 @@
 # html-portfolio-bootcamp
-Projeto para criar um portfolio apenas utilizando html
+Projeto para criar um portfólio apenas utilizando html.
